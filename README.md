@@ -1,0 +1,1 @@
+![workflows status](https://github.com/Sevenflanks/sevenflanks.github.io/workflows/Pages/badge.svg)
